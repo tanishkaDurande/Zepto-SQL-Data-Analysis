@@ -7,7 +7,7 @@ This project analyzes a Zepto inventory dataset using PostgreSQL. It focuses on 
 
 ## 🎯 Objectives
 
-* Create and manage a relational database
+* manage a relational database
 * Explore and clean the dataset
 * Analyze inventory and pricing data
 * Generate business insights using SQL
