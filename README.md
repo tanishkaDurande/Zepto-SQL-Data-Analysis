@@ -40,18 +40,6 @@ This project analyzes a Zepto inventory dataset using PostgreSQL. It focuses on 
 * COUNT(), SUM(), AVG()
 * UPDATE & DELETE
 
-## 📁 Project Files
-
-```text
-zepto-sql-data-analysis/
-├── README.md
-├── Zepto_SQL_Project.sql
-├── Zepto_Dataset.csv
-├── Project_Report.pdf
-├── cover.png
-└── screenshots/
-```
-
 ## 📚 What I Learned
 
 * Database creation and management
@@ -63,6 +51,6 @@ zepto-sql-data-analysis/
 ## 👩‍💻 Author
 
 **Tanishka Durande**
-
-BCA Student | Aspiring Database Administrator
+BCA Student
+email: durandetanishka6@gmail.com
 
