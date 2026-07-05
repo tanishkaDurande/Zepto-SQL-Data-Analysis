@@ -51,6 +51,6 @@ This project analyzes a Zepto inventory dataset using PostgreSQL. It focuses on 
 ## 👩‍💻 Author
 
 **Tanishka Durande**
-BCA Student
+| BCA Student |
 email: durandetanishka6@gmail.com
 
